@@ -20,6 +20,15 @@
         }
       },
       {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift",
+        "state": {
+          "branch": null,
+          "revision": "7e01c05f25c025143073eaa3be3532f9375c614b",
+          "version": "6.1.0"
+        }
+      },
+      {
         "package": "Swinject",
         "repositoryURL": "https://github.com/Swinject/Swinject.git",
         "state": {
